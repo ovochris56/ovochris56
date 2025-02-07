@@ -37,7 +37,7 @@ Below are some of the key repositories I've worked on. Feel free to check them o
 - Independent projects in football and healthcare analytics
 
 📬 How to Reach Me
-- 📧 Email: ovochris56@gmail.com
+- 📧 Email: cfontes721@gmail.com
 - 🌐 LinkedIn: [https://www.linkedin.com/in/christopher-fontes-38b55269/]
 
 Thanks for visiting my profile! Feel free to check out my repositories or connect with me. 🚀
