@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare anal
 - ⚡ Fun fact: I am a photographer who is passionate about capturing the essence of the present moment.
 - 🏈: Avid UMich football fan and lover of all things Patriots!
 
+🌎 My Motivation
+- This journey is more than just a career—it's about legacy and transformation. Through data analytics, I aim to drive real-world impact, particularly in healthcare, where insights can improve lives. But beyond the work itself, I’m building something greater—a future where I can provide for my family and set the ultimate example for my future kids. I want to show them that no matter where you start, with determination and vision, flowers can grow from concrete.
+
 🔧 Tech Stack
 Here are the tools and languages I use regularly:
 - Languages: Python, SQL, R
