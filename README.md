@@ -30,7 +30,7 @@ Below are some of the key repositories I've worked on. Feel free to check them o
 - Description: A project focused on analyzing healthcare data to uncover trends and improve patient outcomes. I used Excel and Tableau for analysis and visualization.
   
 [Database Design and SQL](https://github.com/ovochris56/database-design-and-sql)
--Description: Coursework from my Database Design and SQL course at Purdue University Global 
+- Description: Coursework from my Database Design and SQL course at Purdue University Global 
 
 🌱 I’m currently working on
 - Deepening my understanding of AI/ML to integrate with my healthcare data projects.
