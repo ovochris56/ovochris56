@@ -3,10 +3,16 @@ Hi there, I'm Chris 👋
 Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare analytics. I specialize in turning raw data into meaningful insights to help solve real-world problems. I also have a passion for football, both as a past player and as an avid fanatic and student of the sport.
 
 🚀 About Me
+- 🐾 Graduated with a 3.0 GPA from the University of Connecticut in 2022 with a Bachelors in Exercise Science
+- 🚂 I hold a 4.0 GPA in Purdue University Global's Masters of Health Informatics program (graduating October 2025)
+- 📈 I completed Upright Education's 16-week Data Analytics Boot Camp through Bryant Univeristy from July-November 2024
 - 💼 I work as a Deal Flow Analyst Intern at Loupt
 - 🎯 I enjoy leveraging data to solve real-world healthcare problems, making impactful decisions with the power of analysis.
+- 🏥 After transitioning from pursuing a career in physical therapy, I’m excited to use my analytical skills in data analytics to drive impactful solutions in healthcare.
 - 🌱 Currently diving deeper into AI/ML to further enhance my data analysis skills and provide even more valuable insights.
+- 🤓 I'm a first generation college student of Cape Verdean and Portuguese descent.
 - ⚡ Fun fact: I am a photographer who is passionate about capturing the essence of the present moment.
+- 🏈: Avid UMich football fan and lover of all things Patriots!
 
 🔧 Tech Stack
 Here are the tools and languages I use regularly:
@@ -24,10 +30,11 @@ Below are some of the key repositories I've worked on. Feel free to check them o
 
 🌱 I’m currently working on
 - Deepening my understanding of AI/ML to integrate with my healthcare data projects.
+- Sharpening my skills in Python, R, and SQL while balancing my coursework.
+- Independent projects in football and healthcare analytics
 
 📬 How to Reach Me
 - 📧 Email: ovochris56@gmail.com
 - 🌐 LinkedIn: [https://www.linkedin.com/in/christopher-fontes-38b55269/]
 
 Thanks for visiting my profile! Feel free to check out my repositories or connect with me. 🚀
-
