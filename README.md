@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare anal
 - 🐾 Graduated with a 3.0 GPA from the University of Connecticut in 2022 with a Bachelors in Exercise Science
 - 🚂 I hold a 4.0 GPA in Purdue University Global's Masters of Health Informatics program (graduating October 2025)
 - 📈 I completed Upright Education's 16-week Data Analytics Boot Camp through Bryant Univeristy from July-November 2024
-- 💼 I work as a Deal Flow Analyst Intern at Loupt
+- 📈 I completed Google's Data Analytics Certificate program in less than one week, leveraging prior bootcamp training and a deep drive to master practical tools like SQL, Tableau, and R for real-world data storytelling.
 - 🎯 I enjoy leveraging data to solve real-world healthcare problems, making impactful decisions with the power of analysis.
 - 🏥 After transitioning from pursuing a career in physical therapy, I’m excited to use my analytical skills in data analytics to drive impactful solutions in healthcare.
 - 🌱 Currently diving deeper into AI/ML to further enhance my data analysis skills and provide even more valuable insights.
@@ -39,6 +39,6 @@ Below are some of the key repositories I've worked on. Feel free to check them o
 
 📬 How to Reach Me
 - 📧 Email: cfontes721@gmail.com
-- 🌐 LinkedIn: [https://www.linkedin.com/in/christopher-fontes-38b55269/]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/christopher-fontes 
 
 Thanks for visiting my profile! Feel free to check out my repositories or connect with me. 🚀
