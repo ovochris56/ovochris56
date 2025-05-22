@@ -3,7 +3,7 @@ Hi there, I'm Chris 👋
 Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare analytics. I specialize in turning raw data into meaningful insights to help solve real-world problems. I also have a passion for football, both as a past player and as an avid fanatic and student of the sport.
 
 🚀 About Me
-- 🐾 Graduated with a 3.0 GPA from the University of Connecticut in 2022 with a Bachelors in Exercise Science
+- 🐾 Graduated with a 3.2 GPA from the University of Connecticut in 2022 with a Bachelors in Exercise Science
 - 🚂 I hold a 4.0 GPA in Purdue University Global's Masters of Health Informatics program (graduating October 2025)
 - 📈 I completed Upright Education's 16-week Data Analytics Boot Camp through Bryant Univeristy from July-November 2024
 - 📈 I completed Google's Data Analytics Certificate program in less than one week, leveraging prior bootcamp training and a deep drive to master practical tools like SQL, Tableau, and R for real-world data storytelling.
