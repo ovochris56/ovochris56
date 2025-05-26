@@ -26,6 +26,9 @@ Here are the tools and languages I use regularly:
 📝 Featured Projects
 Below are some of the key repositories I've worked on. Feel free to check them out!
 
+[Bellabeat Smart Device Usage Analysis](https://github.com/ovochris56/google-capstone-bellabeat-analysis)
+- Description: Designed Tableau and Power BI dashboards analyzing Bellabeat user data across activity, total distance traveled, and calorie metrics; uncovered that distance traveled was not directly correlated with calories burned, revealing key behavioral nuances to inform targeted wellness strategies. The average total distance traveled by users dropped by ~45% from April to May
+
 [Healthcare Data Analysis](https://github.com/ovochris56/healthcare-data-analysis)
 - Description: A project focused on analyzing healthcare data to uncover trends and improve patient outcomes. I used Excel and Tableau for analysis and visualization.
   
@@ -35,7 +38,7 @@ Below are some of the key repositories I've worked on. Feel free to check them o
 🌱 I’m currently working on
 - Deepening my understanding of AI/ML to integrate with my healthcare data projects.
 - Sharpening my skills in Python, R, and SQL while balancing my coursework.
-- Independent projects in football and healthcare analytics
+- Independent projects in healthcare analytics
 
 📬 How to Reach Me
 - 📧 Email: cfontes721@gmail.com
