@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare anal
 - 📈 I completed Google's Data Analytics Certificate program in less than one week, leveraging prior bootcamp training and a deep drive to master practical tools like SQL, Tableau, and R for real-world data storytelling.
 - 🎯 I enjoy leveraging data to solve real-world healthcare problems, making impactful decisions with the power of analysis.
 - 🏥 After transitioning from pursuing a career in physical therapy, I’m excited to use my analytical skills in data analytics to drive impactful solutions in healthcare.
-- 🌱 Planning to earn the PL-300, AWS Cloud Practicioner, and Certified Analytics Professional Certifications all in summer 2025.
+- 🌱 Planning to earn the Excel MOS, PL-300 (Power BI), AWS Cloud Practicioner, and Tableau Certified Data Analyst credentials all in summer 2025.
 - 🤓 I'm a first generation college student of Cape Verdean and Portuguese descent.
 - ⚡ Fun fact: I am a photographer who is passionate about capturing the essence of the present moment.
 - 🏈: Avid UMich football fan and lover of all things Patriots!
