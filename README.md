@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare anal
 
 🚀 About Me
 - 🐾 Graduated with a 3.2 GPA from the University of Connecticut in 2022 with a Bachelors in Exercise Science
-- 🚂 I hold a 4.0 GPA in Purdue University Global's Masters of Health Informatics program (graduating October 2025)
+- 🚂 Graduated with a 4.0 GPA in Purdue University Global's Masters of Health Informatics program 
 - 📈 I completed Upright Education's 16-week Data Analytics Boot Camp through Bryant Univeristy from July-November 2024
 - 📈 I completed Google's Data Analytics Certificate program in less than one week, leveraging prior bootcamp training and a deep drive to master practical tools like SQL, Tableau, and R for real-world data storytelling.
 - 🎯 I enjoy leveraging data to solve real-world healthcare problems, making impactful decisions with the power of analysis.
@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a data analyst with a focus on healthcare anal
 
 🌎 My Motivation
 - This journey is more than just a career—it's about legacy and transformation. Through data analytics, I aim to drive real-world impact, particularly in healthcare, where insights can improve lives. But beyond the work itself, I’m building something greater—a future where I can provide for my family and set the ultimate example for my future kids. I want to show them that no matter where you start, with determination and vision, flowers can grow from concrete.
+💼 What I Bring  
+- Data storytelling that blends technical precision with empathy — bridging analytics, healthcare, and equity.
 
 🔧 Tech Stack
 Here are the tools and languages I use regularly:
@@ -25,6 +27,11 @@ Here are the tools and languages I use regularly:
 
 📝 Featured Projects
 Below are some of the key repositories I've worked on. Feel free to check them out!
+
+[Bridging Language Barriers in Rhode Island EHR Systems](https://github.com/ovochris56/Masters-Capstone)
+- Description: Graduate capstone analyzing Rhode Island EHR disparities among Spanish and Portuguese-speaking populations; used Tableau dashboards to visualize demographic inequities and propose bilingual, patient-centered redesigns for improved health literacy.  
+- Tools: Tableau, Excel  
+- [View Project →](https://public.tableau.com/app/profile/christopher.fontes1745/vizzes)
 
 [Bellabeat Smart Device Usage Analysis](https://github.com/ovochris56/google-capstone-bellabeat-analysis)
 - Description: Designed Tableau and Power BI dashboards analyzing Bellabeat user data across activity, total distance traveled, and calorie metrics; uncovered that distance traveled was not directly correlated with calories burned, revealing key behavioral nuances to inform targeted wellness strategies. The average total distance traveled by users dropped by ~45% from April to May
@@ -42,6 +49,8 @@ Below are some of the key repositories I've worked on. Feel free to check them o
 
 📬 How to Reach Me
 - 📧 Email: cfontes721@gmail.com
-- 🌐 LinkedIn: [https://www.linkedin.com/in/christopher-fontes 
+- 🌐 LinkedIn: [https://www.linkedin.com/in/christopher-fontes
+
+Built from adversity. Fueled by purpose.
 
 Thanks for visiting my profile! Feel free to check out my repositories or connect with me. 🚀
