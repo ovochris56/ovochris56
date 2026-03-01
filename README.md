@@ -59,7 +59,7 @@ My projects simulate real-world healthcare data environments, including revenue 
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add link)*
-- Portfolio: *(add link if you want)*
+- [LinkedIn](https://www.linkedin.com/in/christopher-fontes/)
+- [Tableau Public](https://public.tableau.com/app/profile/christopher.fontes1745/vizzes) 
 
 Thanks for visiting my profile!
