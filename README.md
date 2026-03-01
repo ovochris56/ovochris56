@@ -12,6 +12,7 @@ I specialize in transforming healthcare and operational data into decision-suppo
 - 🎓 B.S. Exercise Science — University of Connecticut
 - 📊 Data Analytics Boot Camp — Bryant University (Upright Education)
 - 📊 Google Data Analytics Professional Certificate
+- 📈 Microsoft Excel MO-200 Ceritifed 
 - 🏥 HIMSS Emerging Healthcare Leader Presenter (2026)
 - 🌎 First-generation college graduate (Cape Verdean & Portuguese background)
 
