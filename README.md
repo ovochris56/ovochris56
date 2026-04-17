@@ -9,7 +9,6 @@ I identify where healthcare systems lose money, time, and access—and turn thos
 
 My work focuses on translating complex healthcare data into clear, actionable decisions for clinical and operational teams.
 
----
 
 ## 🚀 About Me
 - 🎓 M.S. Health Informatics — Purdue University Global (4.0 GPA)
@@ -22,7 +21,6 @@ My work focuses on translating complex healthcare data into clear, actionable de
 
 I transitioned from a clinical career path into healthcare analytics to help organizations improve outcomes, efficiency, and patient experience through data.
 
----
 
 ## 💼 What I Do
 - Identify revenue leakage, denial drivers, and operational inefficiencies in healthcare systems
@@ -31,7 +29,6 @@ I transitioned from a clinical career path into healthcare analytics to help org
 - Communicate findings to both technical and non-technical stakeholders
 - Simulate real-world healthcare environments (RCM, utilization, patient access)
 
----
 
 ## 🔧 Technical Skills
 
@@ -40,7 +37,6 @@ I transitioned from a clinical career path into healthcare analytics to help org
 **Data Concepts:** Data modeling, KPI design, ETL concepts, data validation  
 **Databases:** SQL Server, MySQL  
 
----
 
 ##📊 Featured Projects
 
@@ -48,26 +44,22 @@ Revenue Leakage Analysis (Power BI)
 - Identified $78K in unrealized revenue due to patient drop-off and no-shows
 - Revealed a 36% plan-of-care drop-off rate, highlighting systemic retention issues
 - Recommended workflow changes to improve adherence and revenue capture
-
-⸻
+  
 
 Continuity of Care Analysis
 - Analyzed 5,954 patient records, identifying a 39.5% insurance gap rate
 - Found affected patients had 67% higher condition severity
 - Designed outreach strategies to reduce care disruption
 
-⸻
 
 RCM Intelligence Dashboard
 - Built executive dashboard tracking denial rate, A/R aging, and collections
 - Identified key drivers of reimbursement inefficiencies
 - Enabled prioritization of high-impact revenue recovery opportunities
 
----
 
 Currently seeking healthcare analytics roles where data directly supports financial and operational decision-making.
 
----
 
 ## ⚡ Beyond Data
 
@@ -75,7 +67,6 @@ Currently seeking healthcare analytics roles where data directly supports financ
 - 🏈 Sports enthusiast — football strategy, analytics, and performance
 - 🌱 Motivated by growth, resilience, and creating opportunities for others
 
----
 
 ## 📫 Connect With Me
 
