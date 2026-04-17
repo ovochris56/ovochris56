@@ -1,13 +1,19 @@
 # Hi, I'm Chris 👋
 
-Healthcare Data Analyst | Health Informatics (M.S., 4.0 GPA) | HIMSS Emerging Healthcare Leader Presenter
+Hi, I’m Chris 👋
 
-I specialize in transforming healthcare and operational data into decision-support insights using SQL and Power BI. My work focuses on revenue cycle performance, healthcare accessibility, and operational efficiency — turning complex datasets into actionable strategies for organizations.
+Healthcare Data Analyst focused on revenue cycle, utilization, and patient access analytics.
+
+I identify where healthcare systems lose money, time, and access—and turn those insights into measurable financial and operational impact.
+- Identified $78K in unrealized revenue in outpatient care
+- Analyzed 5,900+ patient records to uncover care access gaps
+- Built decision-support dashboards used to simulate real-world healthcare operations
+
+My work focuses on translating complex healthcare data into clear, actionable decisions for clinical and operational teams.
 
 ---
 
 ## 🚀 About Me
-
 - 🎓 M.S. Health Informatics — Purdue University Global (4.0 GPA)
 - 🎓 B.S. Exercise Science — University of Connecticut
 - 📊 Data Analytics Boot Camp — Bryant University (Upright Education)
@@ -21,14 +27,11 @@ I transitioned from a clinical career path into healthcare analytics to help org
 ---
 
 ## 💼 What I Do
-
-- Healthcare analytics & decision support
-- SQL data modeling and KPI development
-- Power BI dashboards for operational insights
-- Data storytelling for non-technical stakeholders
-- Workflow and performance analysis
-
-My projects simulate real-world healthcare data environments, including revenue cycle management and patient communication systems.
+- Identify revenue leakage, denial drivers, and operational inefficiencies in healthcare systems
+- Build SQL-based data models and KPIs for decision support
+- Develop Power BI dashboards that translate data into actionable insights
+- Communicate findings to both technical and non-technical stakeholders
+- Simulate real-world healthcare environments (RCM, utilization, patient access)
 
 ---
 
@@ -41,11 +44,30 @@ My projects simulate real-world healthcare data environments, including revenue 
 
 ---
 
-## 📌 Current Focus
+##📊 Featured Projects
 
-- Healthcare analytics and decision support roles
-- Expanding SQL and cloud data skills
-- Building analytics solutions with real-world business impact
+Revenue Leakage Analysis (Power BI)
+- Identified $78K in unrealized revenue due to patient drop-off and no-shows
+- Revealed a 36% plan-of-care drop-off rate, highlighting systemic retention issues
+- Recommended workflow changes to improve adherence and revenue capture
+
+⸻
+
+Continuity of Care Analysis
+- Analyzed 5,954 patient records, identifying a 39.5% insurance gap rate
+- Found affected patients had 67% higher condition severity
+- Designed outreach strategies to reduce care disruption
+
+⸻
+
+RCM Intelligence Dashboard
+- Built executive dashboard tracking denial rate, A/R aging, and collections
+- Identified key drivers of reimbursement inefficiencies
+- Enabled prioritization of high-impact revenue recovery opportunities
+
+---
+
+Currently seeking healthcare analytics roles where data directly supports financial and operational decision-making.
 
 ---
 
