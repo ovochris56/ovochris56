@@ -5,7 +5,7 @@ Healthcare Data Analyst focused on revenue cycle, utilization, and patient acces
 I identify where healthcare systems lose money, time, and access—and turn those insights into measurable financial and operational impact.
 - Identified $78K in unrealized revenue in outpatient care
 - Analyzed 5,900+ patient records to uncover care access gaps
-- Built decision-support dashboards used to simulate real-world healthcare operations
+- Developed decision-support dashboards used to simulate real-world healthcare operations
 
 My work focuses on translating complex healthcare data into clear, actionable decisions for clinical and operational teams.
 
@@ -40,23 +40,25 @@ I transitioned from a clinical career path into healthcare analytics to help org
 
 ##📊 Featured Projects
 
+These projects reflect my approach to identifying inefficiencies, quantifying impact, and translating insights into actionable decisions.
+
 Revenue Leakage Analysis (Power BI)
 - Identified $78K in unrealized revenue due to patient drop-off and no-shows
 - Revealed a 36% plan-of-care drop-off rate, highlighting systemic retention issues
-- Recommended workflow changes to improve adherence and revenue capture
-  
+- Recommended workflow changes to improve adherence and recover lost revenue opportunities
+🔗[View Project](https://github.com/ovochris56/physical-therapy-revenue-leakage-analysis)
 
 Continuity of Care Analysis
 - Analyzed 5,954 patient records, identifying a 39.5% insurance gap rate
 - Found affected patients had 67% higher condition severity
-- Designed outreach strategies to reduce care disruption
-
+- Designed outreach strategies to reduce care disruption and improve patient retention outcomes
+🔗[View Project](https://github.com/ovochris56/continuity-of-care)
 
 RCM Intelligence Dashboard
-- Built executive dashboard tracking denial rate, A/R aging, and collections
+- Built an executive dashboard tracking denial rate, A/R aging, and collections
 - Identified key drivers of reimbursement inefficiencies
 - Enabled prioritization of high-impact revenue recovery opportunities
-
+🔗[View Project](https://github.com/ovochris56/rcm-denials-ar-intelligence)
 
 Currently seeking healthcare analytics roles where data directly supports financial and operational decision-making.
 
