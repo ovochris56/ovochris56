@@ -46,18 +46,21 @@ Revenue Leakage Analysis (Power BI)
 - Identified $78K in unrealized revenue due to patient drop-off and no-shows
 - Revealed a 36% plan-of-care drop-off rate, highlighting systemic retention issues
 - Recommended workflow changes to improve adherence and recover lost revenue opportunities
+  
 🔗[View Project](https://github.com/ovochris56/physical-therapy-revenue-leakage-analysis)
 
 Continuity of Care Analysis
 - Analyzed 5,954 patient records, identifying a 39.5% insurance gap rate
 - Found affected patients had 67% higher condition severity
 - Designed outreach strategies to reduce care disruption and improve patient retention outcomes
+  
 🔗[View Project](https://github.com/ovochris56/continuity-of-care)
 
 RCM Intelligence Dashboard
 - Built an executive dashboard tracking denial rate, A/R aging, and collections
 - Identified key drivers of reimbursement inefficiencies
 - Enabled prioritization of high-impact revenue recovery opportunities
+  
 🔗[View Project](https://github.com/ovochris56/rcm-denials-ar-intelligence)
 
 Currently seeking healthcare analytics roles where data directly supports financial and operational decision-making.
