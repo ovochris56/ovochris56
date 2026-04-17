@@ -38,7 +38,7 @@ I transitioned from a clinical career path into healthcare analytics to help org
 **Databases:** SQL Server, MySQL  
 
 
-##📊 Featured Projects
+## 📊 Featured Projects
 
 These projects reflect my approach to identifying inefficiencies, quantifying impact, and translating insights into actionable decisions.
 
