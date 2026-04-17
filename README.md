@@ -1,6 +1,4 @@
-# Hi, I'm Chris 👋
-
-Hi, I’m Chris 👋
+# Hi, I'm Chris 👋🏽
 
 Healthcare Data Analyst focused on revenue cycle, utilization, and patient access analytics.
 
